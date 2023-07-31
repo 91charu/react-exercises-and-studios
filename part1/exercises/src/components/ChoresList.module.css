@@ -1,7 +1,15 @@
-.choresText {
-   color: black;
+
+.ChoresHeading {
+   color: brown;
+   font-size: 3vw;
+   text-align: center;
+   text-decoration: underline;
+   font-style: italic;
 }
 
-.choresHeading {
-   color: black;
+.ChoresText {
+   color:orange;
+   font-size: 3vw;
+   text-align: center;
+   font-style:oblique;
 }
