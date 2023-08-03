@@ -1,7 +1,7 @@
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://www.instagram.com/chef_damu/?hl=en";
+   let authorPhoto = "https://www.newsbugz.com/wp-content/uploads/2020/02/Chef-Damu-2.png";
+   let authorName = "Chef Damu";
 
    return (
       <div>
@@ -15,10 +15,10 @@ const RecipeAuthor = () => {
 }
 
 const RecipeIngredients = () => {
-   const ingredients = [];
+   const ingredients = ["Chicken", "Masala Spices", "GingerGarlic paste", "Turmeric powder", "Chilly powder", "Oil"];
    return(
       <div>
-         <h3>Recipe Ingredients</h3>
+         <h3>Chicken Gravy</h3>
          <ul>
             <li>{ingredients[0]}</li>
             <li>{ingredients[1]}</li>
@@ -34,8 +34,8 @@ const RecipeDescription = () => {
    return (
       <div> 
          <div>
-            <h1></h1>
-            <p></p>
+            <h1>Chicken Gravy</h1>
+            <p>Chicken Gravy is a delicious gravy made by cooking chicken with onion & tomato cashew puree, tempered spices and masala powders. Chicken Gravy makes a perfect combo with rice, roti, chapati, etc.</p>
          </div>
          <div className="recipePhotoBlock">
             <RecipeIngredients />
@@ -47,7 +47,7 @@ const RecipeDescription = () => {
 
 const RecipePhoto = () => {
    return (
-      <img src="" alt="" className="imageUpdates"/>
+      <img src="https://www.funfoodfrolic.com/wp-content/uploads/2020/09/Chicken-Curry-Thumbnail.jpg" alt="" className="imageUpdates" height="300" weidth="300"/>
    );
 }
 
