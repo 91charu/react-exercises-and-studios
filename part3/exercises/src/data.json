@@ -1,0 +1,26 @@
+[
+{
+    "plant":"Rose",
+    "botanicalName": "Rosa rubiginosa",
+    "photoUrl": "https://www.thespruce.com/thmb/0qu_LK3udbFtJyzV8DMnUc_jqwI=/5594x0/filters:no_upscale():max_bytes(150000):strip_icc()/types-of-roses-4069722-hero-17f5468ab53b4622b27e3d96534105db.jpg",
+    "alt": "Rose plant"
+},
+{
+    "plant":"Hibiscus",
+    "botanicalName": "Hibiscus rosa-sinensis",
+    "photoUrl": "https://5.imimg.com/data5/SELLER/Default/2022/5/UQ/VC/QH/136079621/red-hibiscus-plant-my-garden-red-hibiscus-plant-199424491.jpg",
+    "alt": "Hibiscus plant"
+},
+{
+    "plant":"Sunflower",
+    "botanicalName": "Helianthus",
+    "photoUrl": "https://hips.hearstapps.com/hmg-prod/images/sunforest-mix-sunflower-types-1586794598.jpg",
+    "alt": "Sunflower plant"
+},
+{
+    "plant":"Lotus",
+    "botanicalName": "Nelumbo nucifera",
+    "photoUrl": "https://plantsinformation.com/wp-content/uploads/lotus-flower-1200x800.jpg",
+    "alt": "Lotus plant"
+}
+]
